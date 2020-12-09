@@ -1,0 +1,7 @@
+Health Potion
+Bag o' Gold
+Gem
+Shield
+Helm
+Ring
+Boots

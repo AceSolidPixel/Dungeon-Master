@@ -1,0 +1,8 @@
+Goblin,2,m
+Orc,4,p
+Giant Rat,1,p
+Kobold,4,m
+Gnoll,3,p
+Snake,1,p
+Froglok,2,m
+Troll,5,p
